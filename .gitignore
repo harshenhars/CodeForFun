@@ -1,0 +1,35 @@
+# Compiled binaries and objects
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.a
+*.so
+*.out
+
+# Build output folders
+Debug/
+Release/
+x64/
+x86/
+build/
+cmake-build-*/
+
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.user
+.idea/
+*.cbp
+
+# MinGW / GCC
+*.gch
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
